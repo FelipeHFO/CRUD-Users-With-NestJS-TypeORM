@@ -14,7 +14,7 @@
 
 ## Executando o projeto
 
-- Para executar o projeto é necessário ter o [Visual%Studio%Code].
+- Para executar o projeto é necessário ter o [Visual Studio Code].
 - Baixar também a extensão do [Docker] no Visual Studio Code.
 - Caso seja windows é necessário ter instalado o Docker-Desktop.
 
